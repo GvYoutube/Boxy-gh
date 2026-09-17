@@ -19,6 +19,7 @@ async function complainIfSkillIssue(app) {
     const firstInstallation = installations[0];
 
     
+    
 
     
     if (firstInstallation) {
